@@ -8,6 +8,7 @@ This work is largerly based on contributions and Python packages developed by ot
 * `SimpleITK` (Lowekamp et al. The Design of SimpleITK. Frontiers in Neuroinformatics. 2013 Dec 30;7:45)
 * `hoa-tools` (Human Organ Atlas Python Tools)
 
+---
 <img src="image/fig.png" alt="examplar registered pair" width="64%" />
 
 
